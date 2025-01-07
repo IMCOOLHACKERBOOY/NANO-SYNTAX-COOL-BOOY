@@ -1,0 +1,55 @@
+# Include custom Python syntax highlighting file (if it exists)
+include ~/.NANO-SYNTAX-COOL-BOOY/*.nanorc
+
+# Set Options
+set linenumbers
+set softwrap
+set constantshow
+set autoindent
+set mouse
+set tabstospaces
+set showcursor
+set matchbrackets "(){}[]"
+
+# Backup Settings
+set backup
+set backupdir "/storage/emulated/0/IM-COOL-BOOY/nano_backups/"
+
+# File Operations Bindings
+bind ^O writeout main
+bind ^X exit main
+bind ^K cut main
+bind ^U paste main
+bind ^W whereis main
+bind ^R replace main
+bind ^I justify main
+bind ^Y redo main
+bind ^Z undo main
+bind ^F whereis main
+bind ^N nextline main
+bind ^P prevline main
+bind ^V nextpage main
+bind ^G constantshow main
+bind ^T speller main
+bind ^L refresh main
+bind ^C location main
+bind ^Y prevpage main
+bind ^E end main
+
+# Meta (Alt) Key Bindings
+bind M-K cut main
+bind M-W whereis main
+bind M-D delete main
+bind M-Z softwrap main
+bind M-B indent main
+bind M-I unindent main
+bind M-6 copy main
+bind M-V prevpage main
+bind M-Q linenumbers main
+bind M-1 findbracket main
+bind M-3 nextword main
+bind M-: recordmacro main
+bind M-; runmacro main
+bind M-X constantshow main
+bind M-/ end main
+bind M-U redo main
