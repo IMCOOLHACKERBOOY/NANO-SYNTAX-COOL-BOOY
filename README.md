@@ -63,4 +63,3 @@ This tool enhances the **nano** text editor with syntax highlighting for various
 - **Open-Source & Free**: Fully open-source under the MIT License, allowing for modifications and distribution.
 
 # NANO-SYNTAX-COOL-BOOY
-# NANO-SYNTAX-COOL-BOOY
