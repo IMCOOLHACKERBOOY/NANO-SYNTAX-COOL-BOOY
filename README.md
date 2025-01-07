@@ -17,7 +17,7 @@ This tool enhances the **nano** text editor with syntax highlighting for various
 1. Update default packages: `apt update && apt upgrade -y`
 2. Install necessary packages such as Python and nano.
 3. Setup NANO-SYNTAX-COOL-BOOY and backup directories.
-4. Enjoy improved syntax highlighting in your **nano** editor!
+4. Enjoy improved syntax highlighting in your **nano** editor..!
 
 🔗 **Useful Links:**
 - [GitHub Repository](https://github.com/IMCOOLHACKERBOOY/NANO-SYNTAX-COOL-BOOY)
